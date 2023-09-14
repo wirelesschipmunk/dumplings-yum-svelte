@@ -1,4 +1,4 @@
-# dumpling-yum-svelte
+# dumplings-yum-svelte
 
 A svelte version of my dumplings-yum website.
 I had of fun making this, it's always great to optimize.
